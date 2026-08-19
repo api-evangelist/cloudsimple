@@ -32,7 +32,7 @@ x-status: defunct
 x-status-reason: acquired-by-google-2019-11
 x-acquired-by: google
 x-successor: google-cloud-vmware-engine
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
